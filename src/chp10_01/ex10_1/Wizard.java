@@ -1,6 +1,6 @@
-package chp10_01;
+package chp10_01.ex10_1;
 
-public class Wizard extends Novice{
+public class Wizard extends Novice {
     int mp;
 
     void fireball(){

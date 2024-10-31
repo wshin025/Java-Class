@@ -1,4 +1,4 @@
-package chp10_01;
+package chp10_01.ex10_1;
 
 public class Novice {
     String name;

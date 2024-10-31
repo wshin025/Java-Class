@@ -1,6 +1,6 @@
-package chp10_01;
+package chp10_01.ex10_1;
 
-public class Knight extends Novice{
+public class Knight extends Novice {
     int stamina;
 
     void slash(){

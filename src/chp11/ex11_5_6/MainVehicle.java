@@ -1,6 +1,4 @@
-package chp11.ex11_5;
-
-import chp10_01.ex10_8.Car;
+package chp11.ex11_5_6;
 
 public class MainVehicle {
     public static void main(String[] args) {
@@ -17,7 +15,7 @@ public class MainVehicle {
 
         Vehicle vehicle1= new Train();
         vehicle1.horn();
-        vehicle1.move("서울", "남원"); //Train의 오버라이딩된 메소드 호출
+        vehicle1.move("서울", "남원"); //Train 오버라이딩된 메소드 호출
 
         Vehicle.stop("대전");
     }
